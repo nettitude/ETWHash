@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETWHash", "ETWHash\ETWHash.csproj", "{B51B80A2-5630-49E8-B9BB-D976110BDF89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51B80A2-5630-49E8-B9BB-D976110BDF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51B80A2-5630-49E8-B9BB-D976110BDF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51B80A2-5630-49E8-B9BB-D976110BDF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51B80A2-5630-49E8-B9BB-D976110BDF89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39372698-0EF2-44EE-A576-48ABA66E2F86}
+	EndGlobalSection
+EndGlobal
